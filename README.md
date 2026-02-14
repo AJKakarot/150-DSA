@@ -1,13 +1,13 @@
-# 150-Leetcode
+# 150-DSA
 
-C++ solutions for the LeetCode 150 study plan.
+C++ solutions for DSA problems (LeetCode 150 style).
 
 ---
 
 ## Folder structure
 
 ```
-150-Leetcode/
+150-DSA/
 ├── README.md
 └── array/
     ├── merge-sorted-array.cpp
