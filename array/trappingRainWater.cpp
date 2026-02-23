@@ -45,3 +45,15 @@ int main() {
 
     return 0;
 }
+
+//Step 1️
+
+// leftMax[i] = left side ki sabse badi diwar
+
+// Step 2️
+
+// rightMax[i] = right side ki sabse badi diwar
+
+// Step 3️
+
+// Paani hamesha chhoti diwar tak hi bharta hai
